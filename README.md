@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/你的用户名/linuxdo-auto-checkin/releases"><img src="https://img.shields.io/github/v/release/你的用户名/linuxdo-auto-checkin?style=flat-square" alt="Release"></a>
-  <a href="https://greasyfork.org/zh-CN/scripts/你的脚本ID"><img src="https://img.shields.io/badge/GreasyFork-安装-red?style=flat-square" alt="GreasyFork"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/你的用户名/linuxdo-auto-checkin?style=flat-square" alt="License"></a>
+  <a href="https://github.com/GeoSyntax/linuxdo-auto-checkin"><img src="https://img.shields.io/github/stars/GeoSyntax/linuxdo-auto-checkin?style=flat-square" alt="Stars"></a>
+  <a href="https://greasyfork.org/zh-CN/scripts/linuxdo-auto-checkin"><img src="https://img.shields.io/badge/GreasyFork-安装-red?style=flat-square" alt="GreasyFork"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/GeoSyntax/linuxdo-auto-checkin?style=flat-square" alt="License"></a>
 </p>
 
 一个用于 [Linux.do](https://linux.do/) 论坛的每日自动签到油猴脚本。在你浏览常用网站时，自动在后台完成签到，轻松获取每日 **+10 积分**。
@@ -48,7 +48,7 @@
 ### 安装脚本
 
 #### 方式一：从 Greasy Fork 安装（推荐）
-[![安装脚本](https://img.shields.io/badge/Greasy%20Fork-安装脚本-red?style=for-the-badge)](https://greasyfork.org/zh-CN/scripts/你的脚本ID)
+[![安装脚本](https://img.shields.io/badge/Greasy%20Fork-安装脚本-red?style=for-the-badge)](https://greasyfork.org/zh-CN/scripts/linuxdo-auto-checkin)
 
 点击上方按钮，然后点击「安装此脚本」即可。
 
